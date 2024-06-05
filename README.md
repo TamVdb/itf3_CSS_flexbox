@@ -1,5 +1,5 @@
 # Adopt a sweet dog
-Exercise on FLEXBOX during my training at Interface3 – Brussels
+Exercise about FLEXBOX technology during my training at Interface3 – Brussels
 
 
 A simple responsive one-page website to test the principles of flexbox on a topic of choice.
