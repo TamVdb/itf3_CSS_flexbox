@@ -1,4 +1,4 @@
-# Adopt a Dog
+# Adopt a sweet dog
 **Exercise on FLEXBOX during my training at Interface3 – Brussels**
 
 
@@ -8,7 +8,7 @@ A small amount of JavaScript with a "shuffle" button to rearrange the different 
 
 
 
-### Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -24,6 +24,4 @@ A small amount of JavaScript with a "shuffle" button to rearrange the different 
 
 ## Images
 
-Ingredients images are from <a href="https://www.vecteezy.com/" target="_blank">Vecteezy</a>
-
-Recipes images by user14908974 from <a href="https://www.freepik.com" target="_blank">Freepik.com</a>
+Images are from <a href="https://pixabay.com/" target="_blank">Pixabay</a>
